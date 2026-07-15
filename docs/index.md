@@ -11,7 +11,7 @@
       ![][image3]  
 2. Press and hold Centre and Left Button to set the position to the default reading
 
-Parallel fence
+## Parallel fence
 
 1. Cut an offcut to \~100mm off the Parallel Fence and measure its true size  
    ![][image4]  
